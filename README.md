@@ -19,11 +19,11 @@ I am a recent International Business graduate with a passion for data analytics.
 
 <p align="left">
     <a href="https://www.hackerrank.com/certificates/0a6f623e64d0" target="_blank" rel="noreferrer">
-      <img src="https://media.licdn.com/dms/image/sync/v2/C5627AQEVdoPmDnfKFw/articleshare-shrink_800/articleshare-shrink_800/0/1711122104028?e=2147483647&v=beta&t=G73EwvrqnRgEo3rffLp9Rh4rwvKmmSWdSkWMlMczm1s" alt="HackerRank SQL Basic Certificate" width="105" height="70"/>
+      <img src="https://www.finsmes.com/wp-content/uploads/2019/12/hakerrank.png" alt="HackerRank SQL Basic Certificate" width="80" height="70"/>
     </a>
   </div style="margin-right: 40px;">
     <a href="https://www.hackerrank.com/certificates/7db2ca778a2c" target="_blank" rel="noreferrer">
-      <img src="https://media.licdn.com/dms/image/sync/v2/D4D27AQFttgsi8ZTADw/articleshare-shrink_800/articleshare-shrink_800/0/1712091598548?e=2147483647&v=beta&t=Psbug01-LFex6UQ2ccT2H8pnGbKoMr7jOs_59QKLKFM" alt="HackerRank SQL Intermediate Certificate" width="105" height="70"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank SQL Intermediate Certificate" width="80" height="70"/>
     </a>
   </div>
 </p>
